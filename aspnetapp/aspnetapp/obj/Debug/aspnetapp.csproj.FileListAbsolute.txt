@@ -1,0 +1,2 @@
+D:\Git\dotnet-test\dotnet-framework-docker\samples\aspnetapp\aspnetapp\obj\Debug\aspnetapp.csprojAssemblyReference.cache
+D:\Git\dotnet-test\dotnet-framework-docker\samples\aspnetapp\aspnetapp\obj\Debug\aspnetapp.csproj.CoreCompileInputs.cache
